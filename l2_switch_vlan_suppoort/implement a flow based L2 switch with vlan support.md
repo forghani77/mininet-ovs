@@ -1,6 +1,6 @@
 # implement a flow based L2 switch with vlan support using mininet and OVS
 
-![[topo.png]]
+![alt text](./topo.png)
 
 In this senario we want to have two vlans :
 * h1 and h3: vlan 100
