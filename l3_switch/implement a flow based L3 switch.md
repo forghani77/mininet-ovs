@@ -1,5 +1,5 @@
 # implement a flow based L3 switch using mininet and OVS
-![[topo 2.png]]
+![alt text](./topo.png)
 This senario has the same concept for L2 switch but instead of MAC addresses flows are based upon IP addresses.
 We want to have a biodirectional flow between h1 and h2.
 Any trafic from/to h3 will be ignored.
